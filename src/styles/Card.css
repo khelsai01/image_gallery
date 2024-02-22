@@ -1,0 +1,18 @@
+.card{
+    border-radius:10px;
+    margin:5px;
+    height: 400px;
+    padding-bottom: 10px;
+ box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
+}
+.details{
+    margin-top: -35px;
+   padding:10px;
+   font-size: 1.2em;
+}
+
+.card img{
+    width: 100%;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
