@@ -1,6 +1,7 @@
 # image_gallery
 
-#deployed link :-
+# deployed link :-
+[https://image-gallery-ten-neon.vercel.app](https://image-gallery-ten-neon.vercel.app/gallery)
 
 ![Capture1](https://github.com/khelsai01/image_gallery/assets/119441119/25c52de5-98c0-4481-9f25-1d806319d993)
 
